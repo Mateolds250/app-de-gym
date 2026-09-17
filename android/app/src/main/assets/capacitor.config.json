@@ -1,0 +1,14 @@
+{
+	"appId": "com.mateocardenas.migym",
+	"appName": "Mi Gym",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	},
+	"plugins": {
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_notify",
+			"iconColor": "#4FD1C5"
+		}
+	}
+}
